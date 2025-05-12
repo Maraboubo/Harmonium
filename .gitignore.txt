@@ -1,0 +1,9 @@
+# Ignorer le fichier de configuration contenant la chaîne de connexion
+Api/Harmonium/appsettings.json
+
+# (Facultatif) Ignorer les fichiers générés automatiquement ou inutiles
+bin/
+obj/
+*.user
+*.suo
+*.log
